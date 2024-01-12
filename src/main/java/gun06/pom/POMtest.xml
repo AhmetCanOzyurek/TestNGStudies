@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd"><suite name="All Test Suite"><test verbose="2" preserve-order="true" name="/Users/enesoncu/IdeaProjects/B2TestNG/src/main/java/gun06/pom/TestHomePageBy.java"><classes><class name="gun06.pom.TestHomePageBy"><methods><include name="testSearch"/></methods></class></classes></test></suite>
